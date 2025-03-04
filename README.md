@@ -6,7 +6,7 @@ Onion Architecture API for getting football statistics, with a RPC for calculati
 
 ### Built With
 
-* [![Django][Django-shield]][Django-url]
+* [![FastAPI][FastAPI-shield]][FastAPI-url]
 * [![PostgreSQL][PostgreSQL-shield]][PostgreSQL-url]
 * [![Docker][Docker-shield]][Docker-url]
 * [![RabbitMQ][RabbitMQ-shield]][RabbitMQ-url]
@@ -152,8 +152,8 @@ Swagger: ```http://localhost:8000/docs```
 [RabbitMQ-url]: https://www.rabbitmq.com/
 [Docker-shield]: https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white
 [Docker-url]: https://www.docker.com/
-[Django-shield]: https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green
-[Django-url]: https://www.djangoproject.com/
+[FastAPI-shield]: https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi
+[FastAPI-url]: https://fastapi.tiangolo.com/
 [PostgreSQL-shield]: https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white
 [PostgreSQL-url]: https://www.postgresql.org/
 
