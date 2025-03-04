@@ -39,7 +39,7 @@ Onion Architecture API for getting football statistics, with a RPC for calculati
 <!-- USAGE EXAMPLES -->
 
 ## Usage:
-Endpoint are located by default at ```http://localhost:8000```
+Endpoint are located by default at ```http://localhost:8000```\
 Swagger: ```http://localhost:8000/docs```
 
 ### Endpoints:
