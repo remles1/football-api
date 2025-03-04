@@ -139,6 +139,7 @@ Swagger: ```http://localhost:8000/docs```
 
 * [European Soccer Database](https://www.kaggle.com/datasets/hugomathien/soccer)
 * [Predicting Football Results With Statistical Modelling](https://dashee87.github.io/football/python/predicting-football-results-with-statistical-modelling/)
+* [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
